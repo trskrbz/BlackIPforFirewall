@@ -1,0 +1,6 @@
+system logging set numbers=0 topics=info,!system;
+ip firewall address-list remove [find where list=blk dynamic=no];
+:delay 1s;
+tool fetch url="https://raw.githubusercontent.com/trskrbz/BlackIPforFirewall/main/list.rsc" mode=https;
+import list.rsc;
+system logging set numbers=0 topics=info;
