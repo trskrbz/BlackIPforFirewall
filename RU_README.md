@@ -22,6 +22,7 @@ BlackIPforFirewall - это проект, содержащий скрипт дл
 - [Stamparm IPsum](https://github.com/stamparm/ipsum/)
 - [StopForumSpam.com](http://www.stopforumspam.com/)
 - [VxVault](http://vxvault.net/)
+
 из списка адресов исключаются IP адреса CDN провайдеров:
 Akamai , Amazon , Arvancloud, Azure, Bing, Bunny CDN, Cloudflare, Cloudfront, DDoS Guard, Digitalocean, Fastly, Google, все сервисы Github, G-core, Yandex Cloud, Imperva, Incapsula, Leaseweb, MaxCDN, NGenix, Oracle, Qrator, StackPath, StormWall, Sucuri, TcpShield, X4B
 
