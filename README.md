@@ -3,7 +3,6 @@
 - [Blocklist.de](https://www.blocklist.de/en/index.html)
 - [Binary Defense Systems](https://www.binarydefense.com)
 - [BotScout.com](http://botscout.com/)
-- [blocklist.net.ua](https://blocklist.net.ua/)
 - [Collective Intelligence Network Security](http://ciarmy.com/)
 - [CleanTalk](https://cleantalk.org/)
 - [CruzIt.com](http://www.cruzit.com/wbl.php)
