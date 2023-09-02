@@ -39,6 +39,7 @@ You can view the separate script in the file [blackip_onlyscript.txt](https://gi
 
 ## Note by ip file
 "full-ip.txt" a complete list of IP addresses (without combining entries)   [Full IP]([https://www.blocklist.de/en/index.html](https://github.com/trskrbz/BlackIPforFirewall/blob/main/full-ip.txt))
+
 "dash-merged-ip.txt" a list with IP addresses combined using a dash (about 17% smaller than full-ip.txt) [Dash Merged IP]([https://github.com/trskrbz/BlackIPforFirewall/blob/main/dash-merged-ip.txt))
 
 ## Contributions
