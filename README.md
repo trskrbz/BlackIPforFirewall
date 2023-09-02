@@ -38,9 +38,9 @@ import blackip.rsc
 You can view the separate script in the file [blackip_onlyscript.txt](https://github.com/trskrbz/BlackIPforFirewall/blob/main/blackip_onlyscript.txt)
 
 ## Note by ip file
-"full-ip.txt" a complete list of IP addresses (without combining entries)   [Full IP]([https://www.blocklist.de/en/index.html](https://github.com/trskrbz/BlackIPforFirewall/blob/main/full-ip.txt))
+[full-ip.txt](https://github.com/trskrbz/BlackIPforFirewall/blob/main/full-ip.txt) a complete list of IP addresses (without combining entries)
 
-"dash-merged-ip.txt" a list with IP addresses combined using a dash (about 17% smaller than full-ip.txt) [Dash Merged IP]([https://github.com/trskrbz/BlackIPforFirewall/blob/main/dash-merged-ip.txt))
+[dash-merged-ip.txt](https://github.com/trskrbz/BlackIPforFirewall/blob/main/dash-merged-ip.txt) a list with IP addresses combined using a dash (about 17% smaller than full-ip.txt)
 
 ## Contributions
 
