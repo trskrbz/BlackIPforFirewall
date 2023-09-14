@@ -20,7 +20,7 @@
 - [StopForumSpam.com](http://www.stopforumspam.com/)
 - [VxVault](http://vxvault.net/)
 
-IP addresses of CDN providers are excluded from the list, including Akamai, Amazon, Arvancloud, Azure, Bing, Bunny CDN, Cloudflare, Cloudfront, DDoS Guard, Digitalocean, Fastly, Google, all Github services, G-core, Yandex Cloud, Imperva, Incapsula, Leaseweb, MaxCDN, NGenix, Oracle, Qrator, StackPath, StormWall, Sucuri, TcpShield, and X4B. The list is optimized by combining several IP addresses into one record. In the future, bash scripts will be added to add addresses to nftables and iptables.
+IP addresses of CDN providers are excluded from the list, including Akamai, Amazon, Arvancloud, Azure, Bing, Bunny CDN, Cloudflare, Cloudfront, DDoS Guard, Digitalocean, Fastly, Google, all Github services, G-core, Yandex Cloud, Yandex Full IP, Imperva, Incapsula, Leaseweb, MaxCDN, NGenix, Oracle, Qrator, StackPath, StormWall, Sucuri, TcpShield, and X4B. The list is optimized by combining several IP addresses into one record. In the future, bash scripts will be added to add addresses to nftables and iptables.
 
 🎯 The goal of the BlackIPforFirewall project is to provide protection for your network against IP addresses that may be associated with malware, spam, or other unwanted activity. The list of such IP addresses is regularly updated to ensure maximum protection effectiveness.
 
